@@ -1,4 +1,4 @@
 src/app/code/core/Mage/Core/ 					        app/code/core/Mage/Core/
 src/app/design/frontend/base/default/layout/core.xml 	app/design/frontend/base/default/layout/core.xml
-src/app/design/frontend/base/default/template/ 	        app/design/frontend/base/default/template/
+src/app/design/frontend/base/default/template/core/     app/design/frontend/base/default/template/core/
 src/app/etc/modules/Mage_Core.xml 				        app/etc/modules/Mage_Core.xml
