@@ -1,0 +1,5 @@
+{
+    "name": "openmage-strict/module-core",
+    "type": "magento-module",
+    "require": {}
+}

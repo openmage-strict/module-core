@@ -1,0 +1,3 @@
+src/app/code/core/Mage/Core/ 					app/code/core/Mage/Core/
+src/app/etc/modules/Mage_Core.xml 				app/etc/modules/Mage_Core.xml
+
