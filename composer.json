@@ -1,5 +1,9 @@
 {
     "name": "openmage-strict/module-core",
+    "description": "Mage_Core",
+    "license": "OSL-3.0",
     "type": "magento-module",
-    "require": {}
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
 }
