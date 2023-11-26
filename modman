@@ -9,3 +9,4 @@ src/app/design/frontend/rwd/default/etc/widget.xml          app/design/frontend/
 src/app/etc/modules/Mage_Core.xml                           app/etc/modules/Mage_Core.xml
 src/app/locale/en_US/Mage_Core.csv                          app/locale/en_US/Mage_Core.csv
 src/app/locale/en_US/template/email/html/                   app/locale/en_US/template/email/html/
+src/shell/indexer.php                                       shell/abstract.php
