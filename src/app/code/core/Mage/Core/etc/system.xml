@@ -286,7 +286,7 @@
                             <show_in_store>1</show_in_store>
                         </name>
                         <ua_regexp translate="comment">
-                            <label></label>
+                            <label/>
                             <frontend_model>adminhtml/system_config_form_field_regexceptions</frontend_model>
                             <backend_model>adminhtml/system_config_backend_design_exception</backend_model>
                             <sort_order>2</sort_order>
@@ -319,7 +319,7 @@
                             <show_in_store>1</show_in_store>
                         </template>
                         <template_ua_regexp translate="comment">
-                            <label></label>
+                            <label/>
                             <frontend_model>adminhtml/system_config_form_field_regexceptions</frontend_model>
                             <backend_model>adminhtml/system_config_backend_design_exception</backend_model>
                             <sort_order>25</sort_order>
@@ -336,7 +336,7 @@
                             <show_in_store>1</show_in_store>
                         </skin>
                         <skin_ua_regexp translate="comment">
-                            <label></label>
+                            <label/>
                             <frontend_model>adminhtml/system_config_form_field_regexceptions</frontend_model>
                             <backend_model>adminhtml/system_config_backend_design_exception</backend_model>
                             <sort_order>35</sort_order>
@@ -352,7 +352,7 @@
                             <show_in_store>1</show_in_store>
                         </layout>
                         <layout_ua_regexp translate="comment">
-                            <label></label>
+                            <label/>
                             <frontend_model>adminhtml/system_config_form_field_regexceptions</frontend_model>
                             <backend_model>adminhtml/system_config_backend_design_exception</backend_model>
                             <sort_order>55</sort_order>
@@ -368,7 +368,7 @@
                             <show_in_store>1</show_in_store>
                         </default>
                         <default_ua_regexp translate="comment">
-                            <label></label>
+                            <label/>
                             <frontend_model>adminhtml/system_config_form_field_regexceptions</frontend_model>
                             <backend_model>adminhtml/system_config_backend_design_exception</backend_model>
                             <sort_order>65</sort_order>
