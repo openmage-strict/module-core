@@ -4,6 +4,13 @@
     "license": "OSL-3.0",
     "type": "magento-module",
     "require": {
-        "magento-hackathon/magento-composer-installer": "*"
+        "magento-hackathon/magento-composer-installer": "*",
+        "zf1s/zend-controller": "*",
+        "zf1s/zend-date": "*",
+        "zf1s/zend-db": "*",
+        "zf1s/zend-filter": "*",
+        "zf1s/zend-session": "*",
+        "zf1s/zend-translate": "*",
+        "zf1s/zend-wildfire": "*"
     }
 }
